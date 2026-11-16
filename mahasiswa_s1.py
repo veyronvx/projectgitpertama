@@ -5,3 +5,5 @@ def daftar_matkul():
         print(f"{i}. {m}")
 
 daftar_matkul()
+
+print("\nDaftar Mata Kuliah dengan Indeks:")
