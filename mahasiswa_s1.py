@@ -7,3 +7,5 @@ def daftar_matkul():
 daftar_matkul()
 
 print("\nDaftar Mata Kuliah dengan Indeks:")
+
+print("Daftar Mata Kuliah:")
